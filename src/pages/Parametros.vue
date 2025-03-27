@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Parametros"
+      titulo="PARAMETROS"
       icono="settings"
     ></Titulo>
     <CrudTable

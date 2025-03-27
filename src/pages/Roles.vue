@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Roles"
+      titulo="ROLES"
       icono="group"
     ></Titulo>
     <CrudTable

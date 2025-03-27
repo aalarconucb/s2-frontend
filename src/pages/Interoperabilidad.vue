@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Interoperabilidad"
+      titulo="INTEROPERABILIDAD"
       icono="cloud_sync"
     ></Titulo>
     <CrudTable

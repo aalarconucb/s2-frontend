@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Menus"
+      titulo="MENUS"
       icono="menu"
     ></Titulo>
     <CrudTable

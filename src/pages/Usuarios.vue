@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Usuarios"
+      titulo="USUARIOS"
       icono="person"
     ></Titulo>
     <CrudTable

@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Dashboard"
+      titulo="DASHBOARD"
       icono="dashboard"
     ></Titulo>
     <q-card

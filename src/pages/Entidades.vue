@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <Titulo
-      titulo="Entidades"
+      titulo="ENTIDADES"
       icono="business"
     ></Titulo>
     <CrudTable
