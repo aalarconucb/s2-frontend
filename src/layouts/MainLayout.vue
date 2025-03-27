@@ -184,7 +184,7 @@
       <q-toolbar>
         <q-toolbar-title>
           <div class="footer">
-            © Justicia {{ new Date().getFullYear() }}
+            © Fundación {{ new Date().getFullYear() }}
           </div>
         </q-toolbar-title>
       </q-toolbar>

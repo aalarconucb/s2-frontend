@@ -170,8 +170,8 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: 'Justicia - Administrador',
-        short_name: 'Justicia - Administrador',
+        name: 'Fundacion - Administrador',
+        short_name: 'Fundacion - Administrador',
         description: '',
         display: 'standalone',
         orientation: 'portrait',
