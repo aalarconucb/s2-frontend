@@ -122,11 +122,11 @@
         :width="250"
       >
         <div class="text-center">
-          <p class="text-white text-h6">
+          <p class="text-white text-h6 q-mt-md">
             <q-icon
-              name="dashboard"
+              name="apps"
               size="sm"
-            /> Frontend base
+            /> Frontend Base
           </p>
           <div class="text-center q-pa-md">
             <q-avatar
