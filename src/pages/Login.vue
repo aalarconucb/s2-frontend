@@ -2,12 +2,12 @@
   <q-page class="flex flex-center">
     <div class="row q-col-gutter-md justify-center">
       <div class="col-xs-12 text-center">
-        <p class="text-h4 text-bold">Frontend base</p>
+        <p class="text-h4 text-bold">FRONTEND MAESTRÍA</p>
       </div>
       <div class="col-xs-12 flex flex-center">
         <q-card style="width: 400px; max-width: 95vw;">
           <q-toolbar class="q-pa-md">
-            <q-toolbar-title>
+            <q-toolbar-title class="text-caption">
               <span> Ingresar como usuario</span>
             </q-toolbar-title>
           </q-toolbar>
@@ -56,16 +56,6 @@
                 no-caps
                 class="full-width q-ma-md"
                 label="Ingresar"
-              />
-              <div class="text-center">ó</div>
-              <q-btn
-                color="secondary"
-                size="16px"
-                padding="10px"
-                no-caps
-                class="full-width q-ma-md"
-                label="Ingresar con Ciudadania"
-                @click="loginCiudadania"
               />
             </q-form>
           </q-card-section>
